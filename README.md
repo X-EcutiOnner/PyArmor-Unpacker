@@ -1,11 +1,8 @@
 # PyArmor-Unpacker
 ## NOTE: This unpacker does not support PyArmor v8+ yet
-I decided it was time to release a proper PyArmor unpacker. All the ones that currently are public are either outdated, not working at all or only giving partial output. I plan on making this one support the latest version of PyArmor.
-
-Please star the repository if you found it helpful. I would really appreciate it.
 
 ## How to use it
-There are 3 different methods for unpacking PyArmor, in the methods folder in this repository you will find all the files needed for each method. Below you will find a detailed write-up on how I started all the way to the end product. I hope more people actually understand how it works this way rather than just using the tool.
+There are 3 different methods for unpacking PyArmor, in the methods folder in this repository you will find all the files needed for each method. Method 3 is the preferred method for Python 3.9. Below you will find a detailed write-up on how I started all the way to the end product. I hope more people actually understand how it works this way rather than just using the tool.
 
 ## Known issues
 This is a list of all the known issues/missing features.
